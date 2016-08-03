@@ -5,7 +5,7 @@ body {
     font-size: 87.5%;
     font-family: Arial, 'Lucida Sans Unicode';
     text-align: left;
-    background-color: orangered;
+    background-color: sienna;
 }
 .logo {
     font-family: Arial, Helvetica, sans-serif;
@@ -33,7 +33,7 @@ a {
 }
 a:link, a:visited {
     color: #FF8c00;
-    color: #FFFFFF;
+   
 }
 a:hover, a:active {
     background-color: #FF8c00;
@@ -67,7 +67,7 @@ a:hover, a:active {
     float: left;
     display: inline;
 }
-.mainHeader nav a:link, .mainHeader nav a :visited {
+.mainHeader nav a:link, .mainHeader nav a:visited {
     color: #FFF;
     display: inline-block;
     padding: 10px 25px;
@@ -93,7 +93,7 @@ a:hover, a:active {
     width: 70%;
     float: left;
 }
-.topContent {
+.topcontent {
     background-color: #FFF;
     border-radius: 5px;
     -moz-border-radius: 5px;
